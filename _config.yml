@@ -1,17 +1,17 @@
 # Site wide configuration
 
 title:            Site Title
-locale:           en_US
+locale:           US
 logo:             # filename of a logo image that has been placed into your images directory 
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url: /jekyll-academic
 # Enter the following platform usernames if you would like for them to appear on your site.
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
-  name: Your Name
+  name: Rob
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Data analyst at large."
+  email: astrobic@outlook.com
   twitter: #username
   facebook: #username
   instagram: #username
