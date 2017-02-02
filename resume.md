@@ -9,7 +9,7 @@ Current Position Description
 
 `1997 - 2001`
 __University of Florida__
-Degree Awarded
+Forensic Anthropology
 
 ##`1995 - 1997`
 __University Name__
