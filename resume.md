@@ -11,14 +11,14 @@ Current Position Description
 __University of Florida__
 Degree Awarded
 
-`1995 - 1997`
+##`1995 - 1997`
 __University Name__
 Degree Awarded 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+##`2012`
+##Name of Award, Organization 
 
 ## Publications
 
